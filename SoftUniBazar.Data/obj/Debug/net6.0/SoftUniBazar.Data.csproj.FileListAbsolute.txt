@@ -1,0 +1,15 @@
+/Users/lachezar/Downloads/Exam-1/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/bin/Debug/net6.0/SoftUniBazar.Data.deps.json
+/Users/lachezar/Downloads/Exam-1/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/bin/Debug/net6.0/SoftUniBazar.Data.runtimeconfig.json
+/Users/lachezar/Downloads/Exam-1/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/bin/Debug/net6.0/SoftUniBazar.Data.dll
+/Users/lachezar/Downloads/Exam-1/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/bin/Debug/net6.0/SoftUniBazar.Data.pdb
+/Users/lachezar/Downloads/Exam-1/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.csproj.AssemblyReference.cache
+/Users/lachezar/Downloads/Exam-1/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachezar/Downloads/Exam-1/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.AssemblyInfoInputs.cache
+/Users/lachezar/Downloads/Exam-1/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.AssemblyInfo.cs
+/Users/lachezar/Downloads/Exam-1/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.csproj.CoreCompileInputs.cache
+/Users/lachezar/Downloads/Exam-1/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.sourcelink.json
+/Users/lachezar/Downloads/Exam-1/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.dll
+/Users/lachezar/Downloads/Exam-1/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/refint/SoftUniBazar.Data.dll
+/Users/lachezar/Downloads/Exam-1/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.pdb
+/Users/lachezar/Downloads/Exam-1/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.genruntimeconfig.cache
+/Users/lachezar/Downloads/Exam-1/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/ref/SoftUniBazar.Data.dll
